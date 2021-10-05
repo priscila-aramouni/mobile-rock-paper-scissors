@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="standard_rules"><u><b>Standard mode</b></u>:\nEvery round, you must pick one of
+        three moves: rock, paper or scissors. Rock beats scissors,
+        scissors beats paper and paper beats rock. Winning a round grants 1 point.
+    </string>
+    <string name="minefield_rules"><u><b>Minefield mode</b></u>:\nWhenever a round plays out,
+        there is a random chance that a mine will be triggered by
+        you, your opponent or both. Triggering a mine costs 1 point.</string>
+</resources>
